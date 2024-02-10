@@ -1,7 +1,6 @@
 # Flask application
 
-This is a simple web application that allows users to view the contents of text files through a web interface. It provides the ability to specify file names, as well as optional start and end line numbers.
-
+The Flask application is designed with a single, user-friendly GET route, allowing efficient reading and rendering of content from specified files (file1.txt, file2.txt, file3.txt, or file4.txt) directly into HTML, with full preservation of any markup present. The endpoint seamlessly accommodates optional URL parameters for file selection and specific line numbers, ensuring a smooth and customized user experience.
 
 ## Installation
 
