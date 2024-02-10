@@ -1,4 +1,4 @@
-#Flask application
+# Flask application
 
 This is a simple web application that allows users to view the contents of text files through a web interface. It provides the ability to specify file names, as well as optional start and end line numbers.
 
